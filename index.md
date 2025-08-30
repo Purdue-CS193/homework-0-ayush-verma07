@@ -1,8 +1,11 @@
-# This is my new site
+# Ayush's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My Favorite things about CS193 :)
+- We learn actual useful information about the terminal that almost every programmer must be well-versed in.
+- We learn of interesting CS-related events such as club fairs and opportunities on campus that would be difficult to learn about otherwise.
+- We are taught by students who could perhaps teach/explain concepts that would help us understand better as students ourselves.
+- We have weekly PSOs where we can ask relevant questions and get help.
+- We become better at debugging, a critical skill for all CS courses. 
 
 ### Markdown
 
@@ -26,12 +29,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Thank you!
